@@ -13,3 +13,6 @@ def divide(x,y):
        return 
     else:
         return x/y
+# Square Implementation
+def square(x,y):
+    return x*x
